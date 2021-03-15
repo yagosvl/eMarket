@@ -17,3 +17,5 @@ pyflakes==2.2.0
 # pytest-cov
 coverage==5.5
 pytest-cov==2.11.1
+
+requirements.txt
